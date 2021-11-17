@@ -1,2 +1,5 @@
 # ASP_CPP
-Tu stavljam svoja rjesenja iz ASP-a... yeah
+Tu sibam svoja rjesenja iz ASP-a... yeah
+
+## Changelogs
+v1.0 - Created repository (hey, it's something)
