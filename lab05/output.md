@@ -1,11 +1,12 @@
 # Output
-Output za lab05
-# zad01
+Output za lab05:
 
-# zad02
+### zad01
 
-# zad03
+### zad02
 
-# zad04
+### zad03
 
-# zad05
+### zad04
+
+### zad05
