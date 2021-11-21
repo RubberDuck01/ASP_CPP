@@ -43,5 +43,5 @@ Output za lab03
 ##### Note:
 *Vise necu commitat compiled programe (I'm too lazy to do that)*
 ##### About...
-> KDevelop 5.6.2
+> KDevelop 5.6.2  
 > G++
