@@ -1,6 +1,5 @@
 # Output
 Output za lab01:
-KDevelop 5.6.2, g++
 ### zad01
 1
 2
@@ -37,3 +36,7 @@ After func: 70
 ### zad05
 Array before function: -1 5 -3 4 2
 Array after function: -11 15 -13 14 12
+
+##### About...
+> KDevelop 5.6.2  
+> G++
