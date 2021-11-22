@@ -89,5 +89,5 @@ Ukupno kontakata: 0
 ##### Additional notes:
 -
 ##### About...
-> KDevelop 5.6.2
+> KDevelop 5.6.2  
 > G++
