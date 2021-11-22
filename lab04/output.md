@@ -54,5 +54,5 @@ zad06 output ispise 1 x10000 (nisam stavio jer ne zelim trositi papir lol)
 ##### Additional notes:
 -
 ##### About...
-> KDevelop 5.6.2
+> KDevelop 5.6.2  
 > G++
