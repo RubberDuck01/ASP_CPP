@@ -23,7 +23,7 @@ Time 3 (microsecs): 3192
 - *Time 1* = start
 - *Time 2* = end
 - *Time 3* = middle
-- IDK why - u ovom zadatku *chrono* radi bez problema... no idea what's going on\
+- IDK why - u ovom zadatku *chrono* radi bez problema... no idea what's going on
 ### zad04
 ```
 Prvi element list1: 1
