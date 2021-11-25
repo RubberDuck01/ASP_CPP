@@ -17,5 +17,5 @@ Vrijeme (microsecs): 956580
 > isto kao i zad01; obviously mi chrono ne radi -_-"
 
 ##### About...
-> KDevelop 5.6.2
+> KDevelop 5.6.2\
 > G++
