@@ -46,7 +46,6 @@ Vrijednost: 12
 > probao sam i drugi case (13) - 13 ne postoji i vratio je 0 (false) iako je prilikom compile puknuo warning
 - in a nutshell: DA, radi! Ne bas fenomenalno, ali radi!
 ##### Additional notes:
-- *zad01 i zad02* nemaju code, hence no code here
 ##### About...
 > KDevelop 5.7.2\
 > G++
