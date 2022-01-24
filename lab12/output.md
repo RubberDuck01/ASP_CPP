@@ -15,6 +15,12 @@ Bubble sort: 6 ms
 Merge sort: 401 ms
 Upgraded sort: 68 ms
 ```
+### zad03
+```
+Stallman, Richard = 83
+Torvalds, Linus = 76
+Lastname, Firstname = 47
+```
 ##### Additional notes:
 ##### About...
 > KDevelop 5.7.2\
