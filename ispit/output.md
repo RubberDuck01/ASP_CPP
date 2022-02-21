@@ -28,6 +28,13 @@ Djeljiv: 20
 Djeljiv: 25
 Ukupno: 4
 ```
+### i2 - 3
+```
+Before: 1 2 3 4 5
+After: -50718640
+```
+##### note:
+- nije dovrsen; ne radi
 ### i4
 ```
 code
