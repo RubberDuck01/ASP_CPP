@@ -35,9 +35,32 @@ After: -50718640
 ```
 ##### note:
 - nije dovrsen; ne radi
-### i4
+### i4 - 1
 ```
-code
+Korijen: 10
+```
+### i4 - 2
+```
+Dodajem: 1
+Dodajem: 2
+Dodajem: 3
+Dodajem: 4
+Dodajem: 5
+Dodajem: 6
+Dodajem: 7
+Dodajem: 8
+Dodajem: 9
+Dodajem: 10
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
 ```
 ##### Additional notes:
 ##### About...
